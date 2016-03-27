@@ -1,0 +1,41 @@
+name: Fishkg
+version: 6.2
+main: me.efe.fishkg.Fishkg
+author: Efe
+softdepend: [EfeCore, Vault, EfeServer]
+commands: 
+  fishkg: 
+    description: Fishkg Main Command
+    aliases: 낚시대회
+  lure: 
+    description: Lure Command
+    aliases: 미끼
+permissions: 
+  fishkg.*: 
+    description: Have all permissions.
+    children: 
+      fishkg.control: true
+      fishkg.stat: true
+      fishkg.join: true
+      fishkg.join.bypass: true
+      fishkg.leave: true
+      fishkg.lure: true
+  fishkg.users: 
+    description: User permissions.
+    children: 
+      fishkg.stat: true
+      fishkg.join: true
+      fishkg.leave: true
+      fishkg.lure: true
+  fishkg.control: 
+    description: Can start/stop/quit fish contest, Can announce ranking, Can reload config, Can hire/fire players, Can create fish shop.
+  fishkg.stat: 
+    description: Can view ranking.
+  fishkg.join: 
+    description: Can join any team.
+  fishkg.join.bypass: 
+    description: Bypass random join (Requires Config).
+  fishkg.leave: 
+    description: Can leave the joined team.
+  fishkg.lure: 
+    description: Can hang bait on a fishing rod (Requires Config).

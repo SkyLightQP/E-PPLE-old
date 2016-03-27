@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/WorldGuard.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/PermissionsEx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/WorldEdit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/ProtocolLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/EfeGear.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/EfeIsland 1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/SkillTree 1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/UnlimitedRPG 3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/Fanciful.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/EfeCommunity 1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/Fishkg.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/EffectLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/TitleMaker 5.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/EfeMobs 1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/craftbukkit-1.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/ActionBarAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/TitleAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/WGCustomFlags.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/EfeItems 1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/EfeTutorial 1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/EfeAuction 1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/EfeMastery 1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/HoryuLogger.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,5 @@
+name: EfeFurnace
+version: 1.0
+main: me.efe.efefurnace.EfeFurnace
+author: Efe
+softdepend: [EfeCore]

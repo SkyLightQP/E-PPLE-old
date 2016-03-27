@@ -1,0 +1,8 @@
+name: EfeShops
+version: 1.0
+main: me.efe.efeshops.EfeShops
+author: Efe
+softdepend: [EfeServer, EfeGear, Citizens, BloodSkin]
+commands: 
+  efeshops: 
+    description: EfeShops

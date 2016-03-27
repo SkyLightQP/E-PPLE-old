@@ -1,0 +1,11 @@
+name: EfeVote
+version: 1.0
+main: me.efe.efevote.EfeVote
+author: Efe
+softdepend: [EfeCore, EfeServer, Votifier, GAListener]
+commands: 
+  휠오브포춘:
+    description: Wheel- Of- Fortune!
+    aliases: [wheeloffortune]
+  efevote:
+    description: EfeVote

@@ -1,0 +1,52 @@
+name: EfeServer
+version: 2.0
+main: me.efe.efeserver.EfeServer
+author: Efe
+depend: [EfeGear, ProtocolLib, WorldEdit, EfeIsland, HoryuLogger]
+commands: 
+  서버: 
+    description: Server Command
+  명령어: 
+    description: Help Command
+    aliases: [도움말, 도움, help, ?]
+  메뉴: 
+    description: Menu Command
+    aliases: [메인메뉴, 메인, ㅁ, menu]
+  귓속말: 
+    descipriotn: Whisper Command
+    aliases: [귓, whisper, msg, tell]
+  설정: 
+    description: Option Command
+    aliases: [옵션, option, options, setting, settings]
+  정보: 
+    description: Player Info Command
+    aliases: [info, playerinfo, player-info, pinfo]
+  스폰:
+    description: Spawn Command
+    aliases: [넴주, spawn]
+  cash:
+    description: Cash Command
+  코인:
+    description: Coin Command
+    aliases: [캐시, 후원, coin, cash, donate]
+  칭호:
+    description: Title Command
+    aliases: [title]
+  코인샵:
+    description: Coin Shop Command
+    aliases: [코인상점, 캐시샵, 캐시상점, coinshop, cashshop]
+  거래:
+    description: Trade Command
+    aliases: [교환, 거래신청, 교환신청, trade]
+  앉기:
+    description: Chair Command
+    aliases: [의자, seat, sit, chair]
+  animaltrap:
+    description: Animal Trap Command
+  rebootannounce:
+    description: Reboot Announce
+permissions:
+  epple.signcolor:
+    description: Sign Color
+  epple.whereverchair:
+    description: Wherever Chair

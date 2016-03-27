@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/craftbukkit-1.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/EfeCore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/GAListener.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/EfeServer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/Fanciful.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/EfeTutorial 1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/EfeItems 1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/PermissionsEx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/EfeGear.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

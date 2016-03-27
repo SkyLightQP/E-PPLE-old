@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/EfeCore.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/ProtocolLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/craftbukkit-1.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/TitleAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/우진/Desktop/Develop ℓ/_Library/EfeServer.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

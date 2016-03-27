@@ -1,0 +1,13 @@
+#
+# Fishkg-ExtraShop Add-on Config
+#
+#
+
+# 'FishMerchant' Trait을 추가할지 여부
+citizens: false
+
+# 다수 판매 기능 사용 여부
+easy-sell: true
+
+# 다수 판매 기능에서, GUI의 줄 수 (2~6)
+gui-row: 4

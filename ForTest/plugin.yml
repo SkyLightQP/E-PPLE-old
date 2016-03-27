@@ -1,0 +1,8 @@
+name: ForTest
+version: 1.0
+main: me.efe.fortest.ForTest
+author: Efe
+softdepend: [ProtocolLib]
+commands: 
+  ft: 
+    description: Only For Test

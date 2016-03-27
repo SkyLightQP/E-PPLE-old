@@ -1,0 +1,5 @@
+name: EfeRudish
+version: 1.0
+main: me.efe.eferudish.EfeRudish
+author: Efe
+softdepend: [EfeCore, EfeItems]

@@ -1,0 +1,5 @@
+name: EfeGear
+version: 1.8 for Spigot
+main: me.efe.efegear.EfeGear
+author: Efe
+softdepend: [Vault]

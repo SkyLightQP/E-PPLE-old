@@ -1,0 +1,9 @@
+name: BloodSkin
+version: 1.0
+main: me.efe.bloodskin.BloodSkin
+author: Efe
+softdepend: [EfeGear, EfeServer]
+commands: 
+  블러드스킨: 
+    description: BloodSkin
+    aliases: [블러드, 스킨, bloodskin]

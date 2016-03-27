@@ -1,0 +1,18 @@
+name: EfeAdmin
+version: 1.0
+main: me.efe.efeadmin.EfeAdmin
+author: Efe
+softdepend: [EfeGear]
+commands:
+  admin:
+    description: Admin Command
+    aliases: [관리, ad]
+  moderator:
+    description: Moderator Command
+    aliases: [중재자, 중재, moderate, mod]
+permissions:
+  epple.admin: 
+    description: Admin
+    default: OP
+  epple.observer: 
+    description: Observer

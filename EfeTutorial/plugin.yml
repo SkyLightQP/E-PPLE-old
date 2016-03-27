@@ -1,0 +1,11 @@
+name: EfeTutorial
+version: 1.0
+main: me.efe.efetutorial.EfeTutorial
+author: Efe
+softdepend: [EfeCore, EfeServer, ProtocolLib, EfeRudish]
+commands: 
+  efetutorial:
+    description: EfeTutorial
+  skip:
+    description: EfeTutorial
+    aliases: [스킵]

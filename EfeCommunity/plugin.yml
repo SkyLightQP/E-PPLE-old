@@ -1,0 +1,12 @@
+name: EfeCommunity
+version: 1.0
+main: me.efe.efecommunity.EfeCommunity
+author: Efe
+softdepend: [EfeGear, EfeServer, EfeIsland]
+commands: 
+  친구: 
+    description: Friends
+    aliases: [우편, 메일함, 메일, friend]
+  우편함: 
+    description: Mails
+    aliases: [우편, 메일함, 메일, post]

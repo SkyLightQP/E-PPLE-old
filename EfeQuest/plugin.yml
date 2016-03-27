@@ -1,0 +1,11 @@
+name: EfeQuest
+version: 1.0
+main: me.efe.efequest.EfeQuest
+author: Efe
+softdepend: [EfeGear, EffectLib, EfeServer, Citizens]
+commands: 
+  퀘스트: 
+    description: EfeQuest
+    aliases: [퀘, quest]
+  efequest:
+    descrption: EfeQuest

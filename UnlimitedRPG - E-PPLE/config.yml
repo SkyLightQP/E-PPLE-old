@@ -1,0 +1,67 @@
+#===========================================#
+#
+#      UnlimitedRPG v3.0 Config
+#
+#===========================================#
+#
+#    Config 가이드 링크는 게시글에 있습니다.
+#
+# Made by Efe
+#===========================================#
+
+
+use: 
+  stat: false
+  custom-exp: false
+  unlimited-tag: false
+  player-info: false
+  party: false
+
+stat: 
+  calculate-data: 
+    str: "%Damage% + %STR% / 5"
+    acc: "%Damage% + %ACC% / 5"
+    def: "%Damage% - rand(%DEF%)"
+    dex: "%DEX% / 5"
+  limit: 
+    str: -1
+    acc: -1
+    def: -1
+    dex: 500
+  levelup-sp: 3
+
+custom-exp: 
+  lose-percent: 0
+  exp-along-level: 
+    - 17
+    - 34
+    - 51
+    - 68
+    - 85
+    - 102
+    - 119
+    - 136
+    - 153
+    - 170
+
+unlimited-tag: 
+  worldguard: false
+
+player-info: 
+  armor: true
+  level: true
+  stat: false
+
+party: 
+  limit-amount: 6
+  exp-share: 
+    enable: false
+    range: 10
+    percent: 20
+    max-level-gap: -1
+  no-pvp: true
+  kick-on-quit: false
+  transfer-on-quit: true
+  remove-on-leave: false
+
+update-check: true

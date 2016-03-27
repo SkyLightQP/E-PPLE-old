@@ -1,0 +1,30 @@
+name: UnlimitedRPG
+version: 3.0
+main: me.efe.unlimitedrpg.UnlimitedRPG
+author: Efe
+softdepends: [EfeGear, ProtocolLib, WorldGuard]
+commands: 
+  urpg: 
+    description: URPG Command
+    aliases: 언리밋
+  태그: 
+    description: Unlimited Tag Command
+  스텟: 
+    description: Stat Command
+  파티: 
+    description: Party Command
+    aliases: party
+  ㅍ: 
+    description: Party Chat Command
+    aliases: [파티채팅]
+permissions: 
+  urpg.stat: 
+    description: Can use /스텟
+  urpg.pinfo: 
+    description: Can view player info
+  urpg.party.create: 
+    description: Can create a party
+  urpg.party.leave: 
+    description: Can leave a party
+  urpg.party.invite: 
+    description: Can invite player to a party

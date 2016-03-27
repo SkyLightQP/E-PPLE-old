@@ -1,0 +1,11 @@
+name: EfeMobs
+version: 1.0
+main: me.efe.efemobs.EfeMobs
+author: Efe
+depend: [EfeGear, EffectLib, EfeServer, Citizens, MythicMobs]
+commands: 
+  efemobs: 
+    description: EfeMobs
+  귀환:
+    description: 귀환
+    aliases: [return]

@@ -1,0 +1,25 @@
+name: TitleMaker
+version: 5.1
+main: me.efe.titlemaker.TitleMaker
+author: Efe
+softdepend: [EfeCore, ProtocolLib, UnlimitedRPG]
+commands: 
+  칭호: 
+    description: TitleMaker's Command
+    aliases: [tm, titlemaker]
+permissions: 
+  title.*: 
+    description: Have all permissions.
+    children: 
+      title.add: true
+      title.edit: true
+      title.remove: true
+      title.view: true
+  title.add: 
+    description: Can add titles to anyone, make a title book, and set title tags to the items.
+  title.edit: 
+    description: Can edit titles of anyone.
+  title.remove: 
+    description: Can remove titles of anyone.
+  title.view: 
+    description: Can view titles of other players.

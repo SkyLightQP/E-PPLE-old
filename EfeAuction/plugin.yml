@@ -1,0 +1,5 @@
+name: EfeAuction
+version: 1.0
+main: me.efe.efeauction.EfeAuction
+author: Efe
+softdepend: [EfeCore, EfeServer, EfeItems, Citizens]

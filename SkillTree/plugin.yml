@@ -1,0 +1,9 @@
+name: SkillTree
+version: 1.0
+main: me.efe.skilltree.SkillTree
+author: Efe
+softdepend: [EfeGear, WorldGuard, EfeServer, EffectLib, ProtocolLib]
+commands: 
+  스킬: 
+    description: 스킬
+    aliases: [스킬트리, skill, skilltree]

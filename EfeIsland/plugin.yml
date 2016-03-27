@@ -1,0 +1,17 @@
+name: EfeIsland
+version: 1.0
+main: me.efe.efeisland.EfeIsland
+author: Efe
+softdepend: [EfeGear, EffectLib, WorldEdit, WorldGuard, WGCustomFlags, WGRegionEvents]
+commands: 
+  efeisland: 
+    description: EfeIsland
+  섬: 
+    description: EfeIsland
+    aliases: [is, isl, isle, island]
+  추천:
+    description: EfeIsland
+    aliases: [recommend]
+  블랙리스트:
+    description: EfeIsland
+    aliases: [blacklist]

@@ -1,0 +1,8 @@
+name: EfeItems
+version: 1.0
+main: me.efe.efeitems.EfeItems
+author: Efe
+softdepend: [EfeCore, BloodSkin, EfeShops, EnchantedFurnace]
+commands: 
+  efeitems:
+    description: EfeItems
